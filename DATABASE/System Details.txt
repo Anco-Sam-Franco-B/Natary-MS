@@ -1,0 +1,4 @@
+System Details for login 
+
+username: Admin
+password: admin
